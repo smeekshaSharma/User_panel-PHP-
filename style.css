@@ -1,0 +1,14 @@
+* {
+    font-family: 'McLaren', cursive;
+}
+
+.inp {
+    border-radius: 20px;
+    border: 1px solid #CA6F1E;
+}
+
+#inpsub {
+    background-color: #CA6F1E;
+    border-color: #CA6F1E;
+    border-radius: 20px;
+}
